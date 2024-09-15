@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 34,
+		"supported_formats": [9, 12, 13, 15, 18, 22, 32, 34],
+        "description": "A simple texturepack which replaces the standard totem with a penguin like looking one."
+    }
+}
